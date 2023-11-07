@@ -20,4 +20,3 @@ Hi, I'm Ilya Kuratov, a PHP web developer based in the Ivanovo, Russia. My core 
 
 <p align="left"> <a href="https://https://vk.com/jerry4fun" target="_blank" rel="noreferrer"> <picture> <img src="https://pngicon.ru/file/uploads/vk-128x128.png" alt="Значок вк"> </picture> </a></p>
 
-<img src="https://pngicon.ru/file/uploads/vk-128x128.png" alt="Значок вк"></a>
