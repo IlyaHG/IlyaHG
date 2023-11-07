@@ -17,7 +17,3 @@ Hi, I'm Ilya Kuratov, a PHP web developer based in the Ivanovo, Russia. My core 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/IlyaHG" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-<p align="left"> <a href="https://vk.com/jerry4fun" target="_blank" rel="noreferrer"> <picture> <img src="import { Icon44LogoVk } from '@vkontakte/icons';" alt="Значок вк"> </picture> </a></p>
-
-import { Icon44LogoVk } from '@vkontakte/icons';
