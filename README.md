@@ -1,7 +1,7 @@
 👋 About
 ======================
 
-Hi, I'm Ilya Kuratov, a PHP web developer based in the Ivanovo, Russia. My core skills are: Proficient with PHP, Apache/Nginx, MySQL and Linux (Ubuntu/Debian) stack Experienced at using Laravel components Building frontends using HTML, CSS (Bootstrap) 🕹 Hobbies In my spare time I enjoy playing video games, watching movies and going for walks with my wife
+Hi, I'm Ilya Kuratov, a PHP web developer based in the Ivanovo, Russia. My core skills are: PHP, Apache/Nginx, MySQL stack. Front: HTML, CSS (Bootstrap) 🕹 Hobbies In my spare time I enjoy playing video games, watching movies and going for walks with my wife
 
 * 🌍  I'm based in Russia,Ivanovo
 * ✉️  You can contact me at [kurat.ilya@gmail.com](mailto:kurat.ilya@gmail.com)
