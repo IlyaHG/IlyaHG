@@ -1,10 +1,24 @@
-👋 About
-======================
+Ilya Kuratov
+📍 PHP Web Developer from Ivanovo, Russia
+🚀 Open to remote work & collaborations
 
-Hi, I'm Ilya Kuratov, a PHP web developer based in the Ivanovo, Russia. My core skills are: PHP, Apache/Nginx, MySQL stack. Front: HTML, CSS (Bootstrap) 🕹 Hobbies In my spare time I enjoy playing video games, watching movies and going for walks with my wife
+Core Stack:
+Backend: PHP (Laravel), MySQL/PostgreSQL, Redis, RabbitMQ
+Frontend: HTML, CSS (Bootstrap), JavaScript (learning React)
+DevOps: Docker, Git, Apache/Nginx
+Other: REST APIs, Queue Systems, Caching
 
-* 🌍  I'm based in Russia,Ivanovo
-* ✉️  You can contact me at [kurat.ilya@gmail.com](mailto:kurat.ilya@gmail.com)
+Recent Focus:
+Building scalable web apps with Laravel (3+ years of experience).
+
+Expanding into modern frontend (React) for dynamic SPAs.
+
+Improving DevOps workflows with Docker and CI/CD practices.
+
+Hobbies & Interests:
+🎮 Video Games | 🎥 Movies | 💪 Gym | 🌿 Walks with my wife
+
+🔗 Let’s connect! Tg: https://t.me/reacheez  | 📧 kurat.ilya@gmail.com
 
 ### Skills
 
